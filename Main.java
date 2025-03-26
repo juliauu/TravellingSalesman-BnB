@@ -1,7 +1,5 @@
 package branch_and_bound;
 
-
-
 public class Main {
     public static void main(String[] args){
         //Menu.displayMenu();
@@ -17,9 +15,6 @@ public class Main {
         System.out.println("czas: " + time + " ms");
 
         bb.displaySolution();
-
-
-
     }
 }
 
